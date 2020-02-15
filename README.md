@@ -1,1 +1,3 @@
 # Unity-Escape-Room
+
+Il s'agit d'un petit jeu type escape room où l'on doit s'échapper de plusieurs salle pour atteindre le réacteur et le réactiver. Seulement le temps est compté...
